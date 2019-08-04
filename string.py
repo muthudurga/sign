@@ -1,6 +1,6 @@
 N=input()
 try:
     int(N)
-    print("YES")
+    print("yes")
 except ValueError:
-    print("NO")
+    print("No")
